@@ -9,3 +9,5 @@
 [user]
 	name = Jeroen Hofman
 	email = jrn.hofman@gmail.com
+[core]
+	editor = vim

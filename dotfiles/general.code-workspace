@@ -15,5 +15,15 @@
         "python.linting.enabled": true,
         "python.pythonPath": "/home/jhofman/Documents/base_env/bin/python",
         "python.linting.pylintArgs": ["--disable=E0401,C0114,C0115,C0116,C0103"]
+        "python.formatting.provider": "autopep8",
+        "python.formatting.autopep8Args": ["--max-line-length=200"],
+
+        "files.trimTrailingWhitespace": true,
+
+        // Using oh my zsh settings for font
+        "terminal.integrated.fontFamily": "Roboto Mono Medium for Powerline",
+        "terminal.integrated.shell.osx": "/bin/zsh",
+        "terminal.integrated.lineHeight": 1.1,
+        "terminal.integrated.rendererType": "canvas"
     }
 }
