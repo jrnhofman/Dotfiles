@@ -1,2 +1,3 @@
-# dotfiles
-Repo to store config files for ViM etc.
+# Dotfiles
+
+This repository contains dotfiles for easy configuration on a new machine.
